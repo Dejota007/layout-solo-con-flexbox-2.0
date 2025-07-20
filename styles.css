@@ -16,7 +16,7 @@ body{
 .header_overlay{
     width: 100%;
     min-height: 100vh;
-    background:linear-gradient(to bottom,#00f8, #000b);
+    background:linear-gradient(to bottom,#00f6, #000b);
     position: absolute;
     z-index: 1;
 }
